@@ -29,7 +29,7 @@
   <project path="development" name="CyanogenMod/android_development" />
   <project path="device/common" name="device/common" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="device/generic/goldfish" name="device/generic/goldfish" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
-  <project path="device/htc/msm8660-common" name="Chad0989/android_device_htc_msm8660-common" />
+  <project path="device/htc/msm8660-common" name="shrike1978/android_device_htc_msm8660-common" />
   <project path="device/htc/vigor" name="Chad0989/device_htc_vigor" />
   <project path="device/sample" name="device/sample" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="external/android-mock" name="platform/external/android-mock" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
