@@ -199,7 +199,7 @@
   <project path="packages/apps/CertInstaller" name="CyanogenMod/android_packages_apps_CertInstaller" />
   <project path="packages/apps/CMWallpapers" name="CyanogenMod/android_packages_apps_CMWallpapers" />
   <project path="packages/apps/Contacts" name="CyanogenMod/android_packages_apps_Contacts" />
-  <project path="packages/apps/DeskClock" name="CyanogenMod/android_packages_apps_DeskClock" />
+  <project path="packages/apps/DeskClock" name="shrike1978/android_packages_apps_DeskClock" />
   <project path="packages/apps/DSPManager" name="CyanogenMod/android_packages_apps_DSPManager" />
   <project path="packages/apps/Email" name="CyanogenMod/android_packages_apps_Email" />
   <project path="packages/apps/Exchange" name="shrike1978/android_packages_apps_Exchange" />
