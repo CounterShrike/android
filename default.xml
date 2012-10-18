@@ -21,7 +21,7 @@
 
   <project path="android" name="Chad0989/android" />
   <project path="abi/cpp" name="platform/abi/cpp" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
-  <project path="bionic" name="CyanogenMod/android_bionic" />
+  <project path="bionic" name="shrike1978/android_bionic" />
   <project path="bootable/bootloader/legacy" name="CyanogenMod/android_bootable_bootloader_legacy" />
   <project path="bootable/diskinstaller" name="CyanogenMod/android_bootable_diskinstaller" />
   <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" />
