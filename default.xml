@@ -201,7 +201,7 @@
   <project path="packages/apps/Contacts" name="shrike1978/android_packages_apps_Contacts" />
   <project path="packages/apps/DeskClock" name="shrike1978/android_packages_apps_DeskClock" />
   <project path="packages/apps/DSPManager" name="CyanogenMod/android_packages_apps_DSPManager" />
-  <project path="packages/apps/Email" name="CyanogenMod/android_packages_apps_Email" />
+  <project path="packages/apps/Email" name="shrike1978/android_packages_apps_Email" />
   <project path="packages/apps/Exchange" name="shrike1978/android_packages_apps_Exchange" />
   <project path="packages/apps/FileManager" name="CyanogenMod/android_packages_apps_FileManager" revision="gingerbread" />
   <project path="packages/apps/Gallery" name="CyanogenMod/android_packages_apps_Gallery" />
