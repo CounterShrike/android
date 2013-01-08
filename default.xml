@@ -21,7 +21,7 @@
 
   <project path="android" name="Chad0989/android" />
   <project path="abi/cpp" name="platform/abi/cpp" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
-  <project path="bionic" name="shrike1978/android_bionic" />
+  <project path="bionic" name="CounterShrike/android_bionic" />
   <project path="bootable/bootloader/legacy" name="CyanogenMod/android_bootable_bootloader_legacy" />
   <project path="bootable/diskinstaller" name="CyanogenMod/android_bootable_diskinstaller" />
   <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" />
@@ -29,8 +29,8 @@
   <project path="development" name="CyanogenMod/android_development" />
   <project path="device/common" name="device/common" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="device/generic/goldfish" name="device/generic/goldfish" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
-  <project path="device/htc/msm8660-common" name="shrike1978/android_device_htc_msm8660-common" />
-  <project path="device/htc/vigor" name="shrike1978/device_htc_vigor" />
+  <project path="device/htc/msm8660-common" name="CounterShrike/android_device_htc_msm8660-common" />
+  <project path="device/htc/vigor" name="CounterShrike/device_htc_vigor" />
   <project path="device/sample" name="device/sample" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="external/android-mock" name="platform/external/android-mock" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="external/antlr" name="platform/external/antlr" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
@@ -154,13 +154,13 @@
   <project path="external/webrtc" name="CyanogenMod/android_external_webrtc" />
   <project path="external/wireless-tools" name="CyanogenMod/android_external_wireless-tools" />
   <project path="external/wpa_supplicant" name="CyanogenMod/android_external_wpa_supplicant" />
-  <project path="external/wpa_supplicant_6" name="shrike1978/android_external_wpa_supplicant_6" />
+  <project path="external/wpa_supplicant_6" name="CounterShrike/android_external_wpa_supplicant_6" />
   <project path="external/wpa_supplicant_8" name="CyanogenMod/android_external_wpa_supplicant_8" />
   <project path="external/xmlwriter" name="CyanogenMod/android_external_xmlwriter" />
   <project path="external/vim" name="CyanogenMod/android_external_vim" revision="master" />
   <project path="external/yaffs2" name="CyanogenMod/android_external_yaffs2" />
   <project path="external/zlib" name="CyanogenMod/android_external_zlib" />
-  <project path="frameworks/base" name="shrike1978/android_frameworks_base" />
+  <project path="frameworks/base" name="CounterShrike/android_frameworks_base" />
   <project path="frameworks/compile/libbcc" name="CyanogenMod/android_frameworks_compile_libbcc" />
   <project path="frameworks/compile/linkloader" name="platform/frameworks/compile/linkloader" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="frameworks/compile/slang" name="CyanogenMod/android_frameworks_compile_slang" />
@@ -186,52 +186,52 @@
   <project path="hardware/qcom/media" name="CyanogenMod/android_hardware_qcom_media" />
   <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" />
   <project path="hardware/samsung" name="CyanogenMod/android_hardware_samsung" />
-  <project path="libcore" name="shrike1978/android_libcore" />
+  <project path="libcore" name="CounterShrike/android_libcore" />
   <project path="ndk" name="CyanogenMod/android_ndk" />
-  <project path="packages/apps/Apollo" name="shrike1978/android_packages_apps_Apollo" />
+  <project path="packages/apps/Apollo" name="CounterShrike/android_packages_apps_Apollo" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="packages/apps/Bluetooth" name="CyanogenMod/android_packages_apps_Bluetooth" />
-  <project path="packages/apps/Browser" name="shrike1978/android_packages_apps_Browser" />
+  <project path="packages/apps/Browser" name="CounterShrike/android_packages_apps_Browser" />
   <project path="packages/apps/Calculator" name="CyanogenMod/android_packages_apps_Calculator" />
   <project path="packages/apps/Calendar" name="CyanogenMod/android_packages_apps_Calendar" />
-  <project path="packages/apps/Camera" name="shrike1978/android_packages_apps_Camera" />
+  <project path="packages/apps/Camera" name="CounterShrike/android_packages_apps_Camera" />
   <project path="packages/apps/CellBroadcastReceiver" name="platform/packages/apps/CellBroadcastReceiver" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="packages/apps/CertInstaller" name="CyanogenMod/android_packages_apps_CertInstaller" />
   <project path="packages/apps/CMWallpapers" name="CyanogenMod/android_packages_apps_CMWallpapers" />
-  <project path="packages/apps/Contacts" name="shrike1978/android_packages_apps_Contacts" />
-  <project path="packages/apps/DeskClock" name="shrike1978/android_packages_apps_DeskClock" />
+  <project path="packages/apps/Contacts" name="CounterShrike/android_packages_apps_Contacts" />
+  <project path="packages/apps/DeskClock" name="CounterShrike/android_packages_apps_DeskClock" />
   <project path="packages/apps/DSPManager" name="CyanogenMod/android_packages_apps_DSPManager" />
-  <project path="packages/apps/Email" name="shrike1978/android_packages_apps_Email" />
-  <project path="packages/apps/Exchange" name="shrike1978/android_packages_apps_Exchange" />
+  <project path="packages/apps/Email" name="CounterShrike/android_packages_apps_Email" />
+  <project path="packages/apps/Exchange" name="CounterShrike/android_packages_apps_Exchange" />
   <project path="packages/apps/FileManager" name="CyanogenMod/android_packages_apps_FileManager" revision="gingerbread" />
   <project path="packages/apps/Gallery" name="CyanogenMod/android_packages_apps_Gallery" />
   <project path="packages/apps/Gallery2" name="platform/packages/apps/Gallery2" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="packages/apps/GanOptimizer" name="CyanogenMod/android_packages_apps_GanOptimizer" />
   <project path="packages/apps/HTMLViewer" name="CyanogenMod/android_packages_apps_HTMLViewer" />
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
-  <project path="packages/apps/Mms" name="shrike1978/android_packages_apps_Mms" />
+  <project path="packages/apps/Mms" name="CounterShrike/android_packages_apps_Mms" />
   <project path="packages/apps/Music" name="CyanogenMod/android_packages_apps_Music" />
   <project path="packages/apps/MusicFX" name="CyanogenMod/android_packages_apps_MusicFX" />
   <project path="packages/apps/Nfc" name="CyanogenMod/android_packages_apps_Nfc" />
   <project path="packages/apps/PackageInstaller" name="CyanogenMod/android_packages_apps_PackageInstaller" />
-  <project path="packages/apps/Phone" name="shrike1978/android_packages_apps_Phone" />
+  <project path="packages/apps/Phone" name="CounterShrike/android_packages_apps_Phone" />
   <project path="packages/apps/Protips" name="CyanogenMod/android_packages_apps_Protips" />
   <project path="packages/apps/Provision" name="CyanogenMod/android_packages_apps_Provision" />
   <project path="packages/apps/QuickSearchBox" name="CyanogenMod/android_packages_apps_QuickSearchBox" />
-  <project path="packages/apps/Settings" name="shrike1978/android_packages_apps_Settings" />
+  <project path="packages/apps/Settings" name="CounterShrike/android_packages_apps_Settings" />
   <project path="packages/apps/SoundRecorder" name="CyanogenMod/android_packages_apps_SoundRecorder" />
   <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="packages/apps/SpeechRecorder" name="platform/packages/apps/SpeechRecorder" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="packages/apps/Stk" name="CyanogenMod/android_packages_apps_Stk" />
-  <project path="packages/apps/Superuser" name="shrike1978/android_packages_apps_Superuser" />
+  <project path="packages/apps/Superuser" name="CounterShrike/android_packages_apps_Superuser" />
   <project path="packages/apps/Tag" name="CyanogenMod/android_packages_apps_Tag" />
   <project path="packages/apps/Torch" name="CyanogenMod/android_packages_apps_Torch" />
-  <project path="packages/apps/Trebuchet" name="shrike1978/android_packages_apps_Trebuchet" />
-  <project path="packages/apps/Usb" name="shrike1978/android_packages_apps_Usb" />
+  <project path="packages/apps/Trebuchet" name="CounterShrike/android_packages_apps_Trebuchet" />
+  <project path="packages/apps/Usb" name="CounterShrike/android_packages_apps_Usb" />
   <project path="packages/apps/VideoEditor" name="platform/packages/apps/VideoEditor" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="packages/apps/VoiceDialer" name="CyanogenMod/android_packages_apps_VoiceDialer" />
   <project path="packages/experimental" name="CyanogenMod/android_packages_experimental" />
-  <project path="packages/inputmethods/LatinIME" name="shrike1978/android_packages_inputmethods_LatinIME" />
+  <project path="packages/inputmethods/LatinIME" name="CounterShrike/android_packages_inputmethods_LatinIME" />
   <project path="packages/inputmethods/OpenWnn" name="CyanogenMod/android_packages_inputmethods_OpenWnn" />
   <project path="packages/inputmethods/PinyinIME" name="platform/packages/inputmethods/PinyinIME" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="packages/providers/ApplicationsProvider" name="CyanogenMod/android_packages_providers_ApplicationsProvider" />
